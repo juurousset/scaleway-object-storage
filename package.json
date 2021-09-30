@@ -7,7 +7,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "amazon-s3": "1.0.1"
+    "amazon-s3": "git+https://github.com/juurousset/amazon-s3.git"
   },
   "deprecated": false,
   "description": "Read and write objects to Scaleway Object Storage using fetch() with acl",
