@@ -1,0 +1,31 @@
+{
+  "author": {
+    "name": "bitquant"
+  },
+  "bugs": {
+    "url": "https://github.com/juurousset/scaleway-object-storage/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "amazon-s3": "1.0.1"
+  },
+  "deprecated": false,
+  "description": "Read and write objects to Scaleway Object Storage using fetch() with acl",
+  "homepage": "https://github.com/juurousset/scaleway-object-storage#readme",
+  "keywords": [
+    "scaleway",
+    "object",
+    "storage"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "scaleway-object-storage",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juurousset/scaleway-object-storage"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
